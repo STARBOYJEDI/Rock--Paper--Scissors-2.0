@@ -1,4 +1,10 @@
-# First and foremost, how does rock, paper scissors work.
+# Created a calculator application based on a tutorial
+
+## The project serves to help me understand basic implementations of js code, styling and format.
+
+# Creditation: Web Dev Simplified (https://www.youtube.com/@WebDevSimplified/featured) & The Odin Project
+
+## First and foremost, how does rock, paper scissors work.
 1. Two players each choose one of rock, paper or scissors simultaneously.
 2. Rock beats scissors, scissors beats paper, and paper beats rock.
 
