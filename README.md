@@ -1,8 +1,8 @@
-# Created a calculator application based on a tutorial
+# Created a Rock, Paper, Scissors based on a tutorial & The Odin Project
 
-## The project serves to help me understand basic implementations of js code, styling and format.
+## The project serves to help me understand basic implementations of js code, styling, structure and responsiveness.
 
-# Creditation: Web Dev Simplified (https://www.youtube.com/@WebDevSimplified/featured) & The Odin Project
+# Creditation: Web Dev Simplified (https://www.youtube.com/@WebDevSimplified/featured) & The Odin Project (https://www.theodinproject.com/dashboard)
 
 ## First and foremost, how does rock, paper scissors work.
 1. Two players each choose one of rock, paper or scissors simultaneously.
